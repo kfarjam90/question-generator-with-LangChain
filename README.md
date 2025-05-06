@@ -2,6 +2,8 @@
 
 A Flask web application that generates multiple-choice questions (MCQs) from uploaded documents (PDF, DOCX, or TXT) using LangChain and Groq's LLM.
 
+[![Watch the demo video](image1.png)](https://www.youtube.com/watch?v=YpOJNwQoHa0)
+
 ## Features
 
 - Upload PDF, DOCX, or TXT files
